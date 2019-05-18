@@ -1,0 +1,5 @@
+frontend/node_modules/*
+API/node_modules/*
+Raspberry/inittest.py
+Raspberry/test.py
+Raspberry/try.py
